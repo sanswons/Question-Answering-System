@@ -1,0 +1,295 @@
+QuestionId: blogs-03-1
+What	WP	5	nmod
+was	VBD	5	auxpass
+Louisiana	NNP	5	nsubjpass
+adversely	RB	5	advmod
+affected	VBN	0	root
+by	IN	1	case
+
+QuestionId: blogs-03-10
+Who	WP	2	nsubj
+filled	VBD	0	root
+the	DT	4	det
+container	NN	2	dobj
+of	IN	7	case
+some	DT	7	det
+gasoline	NN	4	nmod
+
+QuestionId: blogs-03-11
+Who	WP	2	nsubj
+had	VBD	0	root
+a	DT	4	det
+group	NN	2	dobj
+of	IN	7	case
+oak	NN	7	compound
+trees	NNS	4	nmod
+
+QuestionId: blogs-03-12
+What	WDT	2	nsubj
+fell	VBD	0	root
+on	IN	5	case
+the	DT	5	det
+yard	NN	2	nmod
+of	IN	8	case
+a	DT	8	det
+neighbor	NN	5	nmod
+
+QuestionId: blogs-03-13
+Who	WP	2	nsubj
+watched	VBD	0	root
+a	DT	5	det
+large	JJ	5	amod
+tree	NN	2	dobj
+
+QuestionId: blogs-03-14
+What	WP	6	nmod
+did	VBD	6	aux
+the	DT	5	det
+first	JJ	5	amod
+tree	NN	6	nsubj
+fall	VB	0	root
+onto	IN	1	case
+
+QuestionId: blogs-03-15
+Who	WP	2	nsubj
+stayed	VBD	0	root
+in	IN	5	case
+an	DT	5	det
+area	NN	2	nmod
+of	IN	8	case
+the	DT	8	det
+home	NN	5	nmod
+where	WRB	11	advmod
+we	PRP	11	nsubj
+felt	VBD	2	advcl
+safest	JJS	11	dobj
+
+QuestionId: blogs-03-16
+What	WDT	2	nsubj
+began	VBD	0	root
+to	TO	4	mark
+be	VB	2	xcomp
+down	RB	4	advmod
+over	IN	8	case
+a	DT	8	det
+municipality	NN	5	nmod
+
+QuestionId: blogs-03-17
+What	WP	2	nsubj
+happened	VBD	0	root
+in	IN	4	case
+Louisiana	NNP	2	nmod
+
+QuestionId: blogs-03-18
+Who	WP	2	nsubj
+bought	VBD	0	root
+a	DT	5	det
+portable	JJ	5	amod
+generator	NN	2	dobj
+
+QuestionId: blogs-03-19
+Where	WRB	5	advmod
+was	VBD	5	aux
+the	DT	4	det
+tempest	NN	5	nsubj
+occurring	VBG	0	root
+
+QuestionId: blogs-03-20
+Who	WP	2	nsubj
+filled	VBD	0	root
+the	DT	4	det
+container	NN	2	dobj
+of	IN	7	case
+some	DT	7	det
+gasoline	NN	4	nmod
+
+QuestionId: blogs-03-21
+What	WP	4	dobj
+did	VBD	4	aux
+they	PRP	4	nsubj
+watch	VBP	0	root
+on	IN	8	case
+the	DT	8	det
+local	JJ	8	amod
+news	NN	4	nmod
+
+QuestionId: blogs-03-22
+When	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+storm	NN	5	nsubj
+roll	VB	0	root
+in	RP	5	compound:prt
+
+QuestionId: blogs-03-23
+What	WP	6	nmod
+did	VBD	6	aux
+the	DT	5	det
+first	JJ	5	amod
+tree	NN	6	nsubj
+fall	VB	0	root
+onto	IN	1	case
+
+QuestionId: blogs-03-24
+Where	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+stand	VB	0	root
+
+QuestionId: blogs-03-25
+Whose	WP$	2	nmod:poss
+yard	NN	6	dobj
+did	VBD	6	aux
+the	DT	5	det
+tree	NN	6	nsubj
+fall	VB	0	root
+on	RP	6	compound:prt
+
+QuestionId: blogs-03-26
+Who	WP	2	nsubj
+watched	VBD	0	root
+a	DT	5	det
+large	JJ	5	amod
+tree	NN	2	dobj
+
+QuestionId: blogs-03-27
+Who	WP	2	nsubj
+watched	VBD	0	root
+a	DT	6	det
+large	JJ	6	amod
+Jamaica	NNP	6	compound
+dogwood	NN	2	dobj
+
+QuestionId: blogs-03-28
+What	WDT	2	nsubj
+fell	VBD	0	root
+on	IN	6	case
+the	DT	6	det
+garden	NN	6	compound
+tool	NN	2	nmod
+
+QuestionId: blogs-03-29
+Who	WP	2	nsubj
+filled	VBD	0	root
+the	DT	4	det
+container	NN	2	dobj
+of	IN	6	case
+fuel	NN	4	nmod
+
+QuestionId: blogs-03-2
+What	WDT	2	nmod
+rolled	VBD	0	root
+in	IN	5	case
+on	IN	5	case
+Monday	NNP	2	nmod
+September	NNP	5	appos
+1	CD	7	nummod
+in	IN	12	case
+the	DT	12	det
+morning	NN	2	nmod
+
+QuestionId: blogs-03-20
+Who	WP	2	nsubj
+filled	VBD	0	root
+the	DT	4	det
+container	NN	2	dobj
+of	IN	7	case
+some	DT	7	det
+gasoline	NN	4	nmod
+
+QuestionId: blogs-03-3
+What	WDT	2	nsubj
+started	VBD	0	root
+kicking	VBG	2	xcomp
+up	RP	3	compound:prt
+
+QuestionId: blogs-03-30
+Who	WP	2	nsubj
+filled	VBD	0	root
+the	DT	4	det
+can	NN	2	dobj
+of	IN	6	case
+gasoline	NN	4	nmod
+
+QuestionId: blogs-03-31
+What	WDT	2	nsubj
+divided	VBN	0	root
+
+QuestionId: blogs-03-32
+Who	WP	2	nsubj
+evaluated	VBD	0	root
+Baton	NNP	4	compound
+Rouge	NNP	2	dobj
+
+QuestionId: blogs-03-4
+Who	WP	2	nsubj
+came	VBD	0	root
+to	TO	5	case
+Baton	NNP	5	compound
+Rouge	NNP	2	nmod
+yesterday	NN	2	nmod:tmod
+to	TO	8	mark
+assess	VB	2	xcomp
+the	DT	10	det
+damage	NN	8	dobj
+
+QuestionId: blogs-03-5
+Where	WRB	5	advmod
+was	VBD	5	aux
+the	DT	4	det
+storm	NN	5	nsubj
+occurring	VBG	0	root
+
+QuestionId: blogs-03-6
+Where	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+go	VB	0	root
+back	RB	5	advmod
+to	TO	5	nmod
+in	IN	11	mark
+order	NN	8	mwe
+to	TO	11	mark
+purchase	VB	5	advcl
+a	DT	14	det
+portable	JJ	14	amod
+generator	NN	11	dobj
+
+QuestionId: blogs-03-7
+What	WP	11	dobj
+did	VBD	11	aux
+the	DT	4	det
+area	NN	11	nsubj
+of	IN	7	case
+a	DT	7	det
+neighborhood	NN	4	nmod
+of	IN	10	case
+the	DT	10	det
+narrator	NN	7	nmod
+have	VB	0	root
+
+QuestionId: blogs-03-8
+Why	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+begin	VB	0	root
+to	TO	8	mark
+be	VB	8	cop
+nervous	JJ	5	xcomp
+
+QuestionId: blogs-03-9
+Where	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+bring	VB	0	root
+the	DT	7	det
+family	NN	5	dobj
+of	IN	10	case
+the	DT	10	det
+narrator	NN	7	nmod
+to	TO	5	nmod
+

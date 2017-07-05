@@ -1,0 +1,10 @@
+(ROOT (S (NP (NP (DT A) (NN summit) (NN meeting)) (VP (VBN named) (NP (NN G20) (NN summit)))) (VP (VBD started) (PP (IN on) (NP-TMP (JJ eventful) (NN today)))) (. .)))
+(ROOT (S (NP (NN G20) (NN summit)) (VP (VBD happened) (ADVP (RB annually))) (. .)))
+(ROOT (S (NP (NP (DT A) (NN world)) (CC and) (NP (JJ many) (NN leader))) (VP (VBD came) (CC and) (VBD talked) (PP (IN about) (S (NP (PRP it)) (VP (VBG running) (NP (DT a) (NN government)))))) (. .)))
+(ROOT (S (NP (DT A) (NNS people)) (VP (VBD protested) (SBAR (IN because) (S (NP (PRP it)) (VP (VBD disagreed) (PP (IN about) (NP (DT a) (NN view))))))) (. .)))
+(ROOT (S (NP (DT The) (NNS people)) (VP (VBD protested) (ADVP (RB peacefully)) (PP (IN on) (NP (DT a) (NN street)))) (. .)))
+(ROOT (S (NP (DT The) (NNS people)) (VP (VP (VBD rebelled)) (CC and) (VP (VBD created) (NP (NN riot)))) (. .)))
+(ROOT (S (NP (DT The) (NNS people)) (VP (VP (VBD burned) (NP (DT a) (NN police) (NN car))) (CC and) (VP (VBD threw) (NP (DT a) (NN thing)) (PP (IN at) (NP (DT a) (NN police))))) (. .)))
+(ROOT (S (NP (DT The) (NN police)) (VP (VBD alleviated) (NP (NP (DT the) (NNS people)) (PP (IN of) (NP (NN riot))))) (. .)))
+(ROOT (S (S (NP (DT The) (NN police)) (VP (VP (VBD fired) (NP (DT a) (JJ tear) (NN gas)) (PP (IN at) (NP (DT the) (NNS people)))) (CC and) (VP (VBD fired) (NP (DT a) (NN bullet)) (PP (IN at) (NP (DT the) (NNS people)))))) (, ,) (CC and) (S (NP (DT the) (NNS people)) (VP (VBD smashed) (NP (DT a) (NN window)))) (. .)))
+

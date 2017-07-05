@@ -1,0 +1,175 @@
+QuestionId: blogs-05-1
+What	WP	0	root
+was	VBD	1	cop
+the	DT	4	det
+narrator	NN	1	nsubj
+
+QuestionId: blogs-05-10
+What	WP	6	dobj
+did	VBD	6	aux
+the	DT	4	det
+narrator	NN	6	nsubj
+carefully	RB	6	advmod
+step	VB	0	root
+over	RP	6	compound:prt
+
+QuestionId: blogs-05-11
+Why	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+slip	NN	5	nsubj
+fall	VB	0	root
+
+QuestionId: blogs-05-12
+Who	WP	2	nsubj
+feigned	VBN	0	root
+bewilderment	NN	2	dobj
+
+QuestionId: blogs-05-13
+What	WP	0	root
+was	VBD	1	cop
+the	DT	5	det
+narrator/I	NN	5	compound
+teaching	NN	1	nsubj
+
+QuestionId: blogs-05-14
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+narrator/I	NN	5	nsubj
+wonder	VB	0	root
+
+QuestionId: blogs-05-15
+Who	WP	2	nsubj
+batted	VBD	0	root
+an	DT	4	det
+eyelid	NN	2	dobj
+
+QuestionId: blogs-05-16
+Who	WP	2	nsubj
+detected	VBD	0	root
+that	IN	10	mark
+the	DT	5	det
+ankle	NN	10	nsubjpass
+of	IN	8	case
+the	DT	8	det
+narrator	NN	5	nmod
+was	VBD	10	auxpass
+observed	VBN	2	ccomp
+
+QuestionId: blogs-05-17
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+raise	VB	0	root
+
+QuestionId: blogs-05-18
+Where	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+stand	VB	0	root
+
+QuestionId: blogs-05-19
+Where	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+insert	VB	0	root
+it	PRP	5	dobj
+
+QuestionId: blogs-05-2
+What	WP	5	nmod
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+check	VB	0	root
+the	DT	7	det
+group	NN	5	dobj
+of	IN	9	case
+students	NNS	7	nmod
+for	IN	1	case
+
+QuestionId: blogs-05-20
+What	WP	5	nmod
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+see	VB	0	root
+the	DT	7	det
+group	NN	5	dobj
+of	IN	9	case
+students	NNS	7	nmod
+for	IN	1	case
+
+QuestionId: blogs-05-3
+Who	WP	2	nsubj
+noticed	VBD	0	root
+that	IN	10	mark
+the	DT	5	det
+ankle	NN	10	nsubjpass
+of	IN	8	case
+the	DT	8	det
+narrator	NN	5	nmod
+was	VBD	10	auxpass
+observed	VBN	2	ccomp
+
+QuestionId: blogs-05-4
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+resume	VB	0	root
+
+QuestionId: blogs-05-5
+Who	WP	2	nsubj
+glanced	VBD	0	root
+around	IN	5	case
+the	DT	5	det
+group	NN	2	nmod
+of	IN	7	case
+students	NNS	5	nmod
+
+QuestionId: blogs-05-6
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+lift	VB	0	root
+
+QuestionId: blogs-05-7
+Who	WP	2	nsubj
+looked	VBD	0	root
+down	RP	2	compound:prt
+to	TO	5	mark
+see	VB	2	xcomp
+that	DT	5	dobj
+my	PRP$	8	nmod:poss
+underslip	NN	11	nsubj
+had	VBD	11	aux
+somehow	RB	11	advmod
+made	VBN	6	acl:relcl
+its	PRP$	13	nmod:poss
+way	NN	11	dobj
+to	TO	16	case
+the	DT	16	det
+floor	NN	11	nmod
+
+QuestionId: blogs-05-8
+What	WP	4	dobj
+did	VBD	4	aux
+I	PRP	4	nsubj
+share	VBP	0	root
+with	IN	6	case
+you	PRP	4	nmod
+
+QuestionId: blogs-05-9
+What	WP	4	dep
+did	VBD	4	aux
+I	PRP	4	nsubj
+look	VB	0	root
+down	RP	4	compound:prt
+to	TO	7	mark
+see	VB	4	xcomp
+

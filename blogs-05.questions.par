@@ -1,0 +1,60 @@
+QuestionId: blogs-05-1
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD was) (NP (DT the) (NN narrator))) (. ?)))
+
+QuestionId: blogs-05-10
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (ADVP (RB carefully)) (VB step) (PRT (RP over)))) (. ?)))
+
+QuestionId: blogs-05-11
+(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBD did) (NP (DT the) (NN slip)) (VP (VB fall))) (. ?)))
+
+QuestionId: blogs-05-12
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBN feigned) (NP (NN bewilderment)))) (. ?)))
+
+QuestionId: blogs-05-13
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD was) (NP (DT the) (NN narrator/I) (NN teaching))) (. ?)))
+
+QuestionId: blogs-05-14
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN narrator/I)) (VP (VB wonder))) (. ?)))
+
+QuestionId: blogs-05-15
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD batted) (NP (DT an) (NN eyelid)))) (. ?)))
+
+QuestionId: blogs-05-16
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD detected) (SBAR (IN that) (S (NP (NP (DT the) (NN ankle)) (PP (IN of) (NP (DT the) (NN narrator)))) (VP (VBD was) (VP (VBN observed))))))) (. ?)))
+
+QuestionId: blogs-05-17
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB raise))) (. ?)))
+
+QuestionId: blogs-05-18
+(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB stand))) (. ?)))
+
+QuestionId: blogs-05-19
+(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB insert) (NP (PRP it)))) (. ?)))
+
+QuestionId: blogs-05-2
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB check) (NP (NP (DT the) (NN group)) (PP (IN of) (NP (NNS students)))) (PP (IN for)))) (. ?)))
+
+QuestionId: blogs-05-20
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB see) (NP (NP (DT the) (NN group)) (PP (IN of) (NP (NNS students)))) (PP (IN for)))) (. ?)))
+
+QuestionId: blogs-05-3
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD noticed) (SBAR (IN that) (S (NP (NP (DT the) (NN ankle)) (PP (IN of) (NP (DT the) (NN narrator)))) (VP (VBD was) (VP (VBN observed))))))) (. ?)))
+
+QuestionId: blogs-05-4
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB resume))) (. ?)))
+
+QuestionId: blogs-05-5
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD glanced) (PP (IN around) (NP (NP (DT the) (NN group)) (PP (IN of) (NP (NNS students))))))) (. ?)))
+
+QuestionId: blogs-05-6
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB lift))) (. ?)))
+
+QuestionId: blogs-05-7
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD looked) (PRT (RP down)) (S (VP (TO to) (VP (VB see) (NP (NP (DT that)) (SBAR (S (NP (PRP$ my) (NN underslip)) (VP (VBD had) (ADVP (RB somehow)) (VP (VBN made) (NP (PRP$ its) (NN way)) (PP (TO to) (NP (DT the) (NN floor))))))))))))) (. ?)))
+
+QuestionId: blogs-05-8
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (PRP I)) (VP (VBP share) (PP (IN with) (NP (PRP you))))) (. ?)))
+
+QuestionId: blogs-05-9
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (PRP I)) (VP (VB look) (PRT (RP down)) (S (VP (TO to) (VP (VB see)))))) (. ?)))
+

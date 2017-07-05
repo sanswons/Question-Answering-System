@@ -1,0 +1,84 @@
+QuestionId: blogs-02-1
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD died))) (. ?)))
+
+QuestionId: blogs-02-10
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBZ is) (NP (DT the) (NN story)) (ADJP (IN about))) (. ?)))
+
+QuestionId: blogs-02-11
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB begin) (S (VP (TO to) (VP (VB wonder)))))) (. ?)))
+
+QuestionId: blogs-02-12
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VP (VBD was) (PP (IN in) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NP (NNS trees)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PP (IN above) (NP (DT the) (NN narrator)))))))))))) (. ?)))
+
+QuestionId: blogs-02-13
+(ROOT (SBARQ (WHADVP (WRB When)) (SQ (VBD did) (NP (DT the) (JJ young) (NN man)) (VP (VB die))) (. ?)))
+
+QuestionId: blogs-02-14
+(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBD did) (NP (DT the) (JJ young) (NN man)) (VP (VB crash) (NP (DT the) (NN motorbike)))) (. ?)))
+
+QuestionId: blogs-02-15
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD broke) (NP (NP (DT the) (NN neck)) (PP (IN of) (NP (DT the) (JJ young) (NN man)))))) (. ?)))
+
+QuestionId: blogs-02-16
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD decided) (S (VP (TO to) (VP (VB talk) (PP (TO to) (NP (DT the) (JJ young) (NN man)))))))) (. ?)))
+
+QuestionId: blogs-02-17
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB go) (PP (IN into)))) (. ?)))
+
+QuestionId: blogs-02-18
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBD was) (VP (VBG catching) (S (NP (DT some) (NN Z) (POS 's))))) (. ?)))
+
+QuestionId: blogs-02-19
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD walked) (PP (IN in) (NP (NP (DT the) (NN house)) (PP (IN of) (NP (DT the) (NN narrator))))))) (. ?)))
+
+QuestionId: blogs-02-2
+(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBD did) (NP (DT the) (JJ young) (NN man)) (VP (VB die))) (. ?)))
+
+QuestionId: blogs-02-20
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB perceive))) (. ?)))
+
+QuestionId: blogs-02-21
+(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBD was) (NP (EX there)) (NP (NP (NN nothing)) (SBAR (S (NP (DT the) (NN narrator)) (VP (MD could) (VP (VB do))))))) (. ?)))
+
+QuestionId: blogs-02-22
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD was) (VP (VBN broken)))))
+
+QuestionId: blogs-02-23
+(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB talk) (PP (TO to) (NP (PRP him))) (SBAR (RB as) (IN if) (S (NP (PRP he)) (VP (VBD were) (ADVP (RB still)) (ADVP (RB there))))))) (. ?)))
+
+QuestionId: blogs-02-24
+(ROOT (SBARQ (WHADVP (WRB When)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB decide) (S (VP (TO to) (VP (VB talk) (PP (TO to) (NP (PRP him)))))))) (. ?)))
+
+QuestionId: blogs-02-25
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD was) (ADJP (JJ logical))) (. ?)))
+
+QuestionId: blogs-02-26
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD passed) (ADVP (RB away)))) (. ?)))
+
+QuestionId: blogs-02-27
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VBP speak) (PP (TO to)))) (. ?)))
+
+QuestionId: blogs-02-28
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBN communicated) (PP (IN with) (NP (DT the) (JJ young) (NN man))))) (. ?)))
+
+QuestionId: blogs-02-3
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD visited) (NP (DT the) (NN place)) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD died)))))) (. ?)))
+
+QuestionId: blogs-02-4
+(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB decide) (S (VP (TO to) (VP (VB talk) (PP (TO to) (NP (DT the) (JJ young) (NN man)))))))) (. ?)))
+
+QuestionId: blogs-02-5
+(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB enter))) (. ?)))
+
+QuestionId: blogs-02-6
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB see))) (. ?)))
+
+QuestionId: blogs-02-7
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBD was) (VP (VBG snoring))) (. ?)))
+
+QuestionId: blogs-02-8
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD crashed) (NP (DT the) (NN motorbike)))) (. ?)))
+
+QuestionId: blogs-02-9
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD stayed) (PP (IN with) (NP (DT the) (JJ young) (NN man))))) (. ?)))
+

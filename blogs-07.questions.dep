@@ -1,0 +1,111 @@
+QuestionId: blogs-07-1
+What	WP	0	root
+is	VBZ	1	cop
+lurking	VBG	1	nsubj
+in	IN	6	case
+the	DT	6	det
+apartment	NN	3	nmod
+
+QuestionId: blogs-07-10
+What	WP	7	nsubj
+did	VBD	7	aux
+not	RB	7	neg
+even	RB	7	advmod
+and	CC	4	cc
+yet	RB	4	conj
+arrive	VB	0	root
+to	TO	10	case
+the	DT	10	det
+apartment	NN	7	nmod
+of	IN	13	case
+the	DT	13	det
+narrator	NN	10	nmod
+
+QuestionId: blogs-07-2
+What	WP	4	dobj
+did	VBD	4	aux
+I	PRP	4	nsubj
+grab	VB	0	root
+
+QuestionId: blogs-07-3
+What	WP	4	dobj
+did	VBD	4	aux
+I	PRP	4	nsubj
+smite	VB	0	root
+mine	NN	6	compound
+enemies	NNS	4	dobj
+and	CC	4	cc
+smear	VB	4	conj
+their	PRP$	12	nmod:poss
+greasy	JJ	12	amod
+bug	NN	12	compound
+guts	NNS	8	dobj
+with	IN	8	nmod
+
+QuestionId: blogs-07-4
+What	WDT	2	nsubj
+entered	VBD	0	root
+the	DT	4	det
+apartment	NN	2	dobj
+of	IN	7	case
+the	DT	7	det
+narrator	NN	4	nmod
+
+QuestionId: blogs-07-5
+When	WRB	8	advmod
+did	VBD	8	aux
+a	DT	4	det
+narrator	NN	8	nsubj
+recently	RB	6	advmod
+and	CC	8	advmod
+momentarily	RB	6	advmod
+open	VB	0	root
+
+QuestionId: blogs-07-6
+What	WDT	2	nsubj
+began	VBD	0	root
+to	TO	6	mark
+be	VB	6	cop
+the	DT	6	det
+enemy	NN	2	xcomp
+of	IN	9	case
+the	DT	9	det
+narrator	NN	6	nmod
+
+QuestionId: blogs-07-7
+Why	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+grab	VB	0	root
+a	DT	10	det
+reachable	JJ	10	amod
+and	CC	7	cc
+close	JJ	7	conj
+thing	NN	5	dobj
+that	WDT	16	nsubj
+was	VBD	16	cop
+a	DT	16	det
+rolled	JJ	16	amod
+comic	JJ	16	amod
+book	NN	10	acl:relcl
+
+QuestionId: blogs-07-8
+Who	WP	2	nsubj
+stopped	VBD	0	root
+hitting	VBG	2	xcomp
+the	DT	5	det
+group	NN	3	dobj
+of	IN	7	case
+bugs	NNS	5	nmod
+
+QuestionId: blogs-07-9
+Where	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+begin	VB	0	root
+to	TO	7	mark
+look	VB	5	xcomp
+around	RP	7	compound:prt
+

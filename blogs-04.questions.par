@@ -1,0 +1,63 @@
+QuestionId: blogs-04-1
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD approached) (NP (DT the) (NN bowl)))) (. ?)))
+
+QuestionId: blogs-04-10
+(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB place) (NP (DT the) (NN bowl)))) (. ?)))
+
+QuestionId: blogs-04-11
+(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBD did) (NP (DT the) (NN squirrel)) (VP (VB fall))) (. ?)))
+
+QuestionId: blogs-04-12
+(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB place) (NP (DT the) (NN bowl)) (PP (IN on) (NP (DT the) (NN deck))))) (. ?)))
+
+QuestionId: blogs-04-13
+(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBD did) (NP (DT the) (NNS birds)) (VP (VBP organize) (NP (PRP themselves)))) (. ?)))
+
+QuestionId: blogs-04-14
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (PRP we)) (VP (VB keep) (ADVP (JJ outside)) (PP (IN on) (NP (DT the) (JJ back) (NN deck))))) (. ?)))
+
+QuestionId: blogs-04-15
+(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBD did) (NP (DT the) (NNS birds)) (VP (VBP form) (NP (PRP themselves)))) (. ?)))
+
+QuestionId: blogs-04-16
+(ROOT (FRAG (SBAR (WHNP (WDT What)) (S (VP (VBD erred) (PRT (RP off)) (NP (NP (DT the) (NN deck) (POS 's)) (NN railing))))) (. ?)))
+
+QuestionId: blogs-04-17
+(ROOT (SBARQ (WHNP (WDT What)) (SQ (VP (VBZ has) (VP (VBN become) (NP (DT a) (ADJP (RB very) (JJ popular)) (NN site))))) (. ?)))
+
+QuestionId: blogs-04-18
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBZ bathes) (PP (IN in) (NP (PRP it))))) (. ?)))
+
+QuestionId: blogs-04-19
+(ROOT (SBARQ (WHADVP (WRB When)) (SQ (VBD did) (NP (PRP$ his) (NN paw)) (VP (VB slip))) (. ?)))
+
+QuestionId: blogs-04-2
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD fell) (PP (IN over) (NP (NP (DT the) (NN deck) (POS 's)) (NN railing)))))))
+
+QuestionId: blogs-04-20
+(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VBD put) (NP (DT the) (NN bowl)))) (. ?)))
+
+QuestionId: blogs-04-21
+(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBD did) (NP (DT the) (NN squirrel)) (VP (VB jump))) (. ?)))
+
+QuestionId: blogs-04-3
+(ROOT (FRAG (SBAR (WHNP (WDT What)) (S (VP (VBD slipped) (PRT (RP off)) (NP (NP (DT the) (NN deck) (POS 's)) (NN railing))))) (. ?)))
+
+QuestionId: blogs-04-4
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NNS birds)) (VP (VB bath) (NP (PRP themselves)) (PP (IN in)))) (. ?)))
+
+QuestionId: blogs-04-5
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (ADVP (RB also)) (VP (VBZ comes) (S (VP (TO to) (VP (VB drink) (PRT (IN out)) (PP (IN of) (NP (PRP it)))))))) (. ?)))
+
+QuestionId: blogs-04-6
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD saw) (NP (PRP$ his) (CD one) (JJ little) (NN paw)) (S (VP (VBG hanging) (PP (IN on)))))) (. ?)))
+
+QuestionId: blogs-04-7
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (PRP I)) (VP (VB wish) (SBAR (S (NP (PRP I)) (VP (VBD had)))))) (. ?)))
+
+QuestionId: blogs-04-8
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VP (VBZ drinks) (PRT (IN out)) (PP (IN of) (NP (PRP it)))) (CC and) (VP (VBZ bathes) (PP (IN in) (NP (PRP it)))))) (. ?)))
+
+QuestionId: blogs-04-9
+(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBP do) (NP (DT the) (NNS birds)) (VP (ADVP (RB literally)) (VBP line) (ADVP (RP up)) (PP (IN on)))) (. ?)))
+

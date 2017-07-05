@@ -1,0 +1,235 @@
+QuestionId: blogs-02-1
+Who	WP	2	nsubj
+died	VBD	0	root
+
+QuestionId: blogs-02-10
+Who	WP	5	dobj
+is	VBZ	5	cop
+the	DT	4	det
+story	NN	5	nsubj
+about	IN	0	root
+
+QuestionId: blogs-02-11
+What	WP	7	dobj
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+begin	VB	0	root
+to	TO	7	mark
+wonder	VB	5	xcomp
+
+QuestionId: blogs-02-12
+What	WP	5	nsubj
+was	VBD	5	cop
+in	IN	5	case
+a	DT	5	det
+group	NN	0	root
+of	IN	7	case
+trees	NNS	5	nmod
+that	WDT	12	nsubj
+was	VBD	12	cop
+above	IN	12	case
+the	DT	12	det
+narrator	NN	7	acl:relcl
+
+QuestionId: blogs-02-13
+When	WRB	6	advmod
+did	VBD	6	aux
+the	DT	5	det
+young	JJ	5	amod
+man	NN	6	nsubj
+die	VB	0	root
+
+QuestionId: blogs-02-14
+Where	WRB	6	advmod
+did	VBD	6	aux
+the	DT	5	det
+young	JJ	5	amod
+man	NN	6	nsubj
+crash	VB	0	root
+the	DT	8	det
+motorbike	NN	6	dobj
+
+QuestionId: blogs-02-15
+Who	WP	2	nsubj
+broke	VBD	0	root
+the	DT	4	det
+neck	NN	2	dobj
+of	IN	8	case
+the	DT	8	det
+young	JJ	8	amod
+man	NN	4	nmod
+
+QuestionId: blogs-02-16
+Who	WP	2	nsubj
+decided	VBD	0	root
+to	TO	4	mark
+talk	VB	2	xcomp
+to	TO	8	case
+the	DT	8	det
+young	JJ	8	amod
+man	NN	4	nmod
+
+QuestionId: blogs-02-17
+What	WP	5	nmod
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+go	VB	0	root
+into	IN	1	case
+
+QuestionId: blogs-02-18
+Who	WP	3	nsubj
+was	VBD	3	aux
+catching	VBG	0	root
+some	DT	5	det
+Z	NN	3	xcomp
+'s	POS	5	case
+
+QuestionId: blogs-02-19
+Who	WP	2	nsubj
+walked	VBD	0	root
+in	IN	5	case
+the	DT	5	det
+house	NN	2	nmod
+of	IN	8	case
+the	DT	8	det
+narrator	NN	5	nmod
+
+QuestionId: blogs-02-21
+Why	WRB	2	advmod
+was	VBD	0	root
+there	EX	2	expl
+nothing	NN	2	nsubj
+the	DT	6	det
+narrator	NN	8	nsubj
+could	MD	8	aux
+do	VB	4	acl:relcl
+
+QuestionId: blogs-02-22
+What	WP	3	nsubjpass
+was	VBD	3	auxpass
+broken	VBN	0	root
+
+QuestionId: blogs-02-23
+Why	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+talk	VB	0	root
+to	TO	7	case
+him	PRP	5	nmod
+as	RB	11	mark
+if	IN	8	mwe
+he	PRP	11	nsubj
+were	VBD	5	advcl
+still	RB	11	advmod
+there	RB	11	advmod
+
+QuestionId: blogs-02-24
+When	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+decide	VB	0	root
+to	TO	7	mark
+talk	VB	5	xcomp
+to	TO	9	case
+him	PRP	7	nmod
+
+QuestionId: blogs-02-25
+What	WP	3	nsubj
+was	VBD	3	cop
+logical	JJ	0	root
+
+QuestionId: blogs-02-26
+Who	WP	2	nsubj
+passed	VBD	0	root
+away	RB	2	advmod
+
+QuestionId: blogs-02-27
+Who	WP	5	nmod
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+speak	VBP	0	root
+to	TO	1	case
+
+QuestionId: blogs-02-28
+Who	WP	2	nsubj
+communicated	VBN	0	root
+with	IN	6	case
+the	DT	6	det
+young	JJ	6	amod
+man	NN	2	nmod
+
+QuestionId: blogs-02-2
+Where	WRB	6	advmod
+did	VBD	6	aux
+the	DT	5	det
+young	JJ	5	amod
+man	NN	6	nsubj
+die	VB	0	root
+
+QuestionId: blogs-02-20
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+perceive	VB	0	root
+
+QuestionId: blogs-02-3
+Who	WP	2	nsubj
+visited	VBD	0	root
+the	DT	4	det
+place	NN	2	dobj
+where	WRB	7	advmod
+he	PRP	7	nsubj
+died	VBD	2	advcl
+
+QuestionId: blogs-02-4
+Why	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+decide	VB	0	root
+to	TO	7	mark
+talk	VB	5	xcomp
+to	TO	11	case
+the	DT	11	det
+young	JJ	11	amod
+man	NN	7	nmod
+
+QuestionId: blogs-02-5
+Where	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+enter	VB	0	root
+
+QuestionId: blogs-02-6
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+see	VB	0	root
+
+QuestionId: blogs-02-7
+Who	WP	3	nsubj
+was	VBD	3	aux
+snoring	VBG	0	root
+
+QuestionId: blogs-02-8
+Who	WP	2	nsubj
+crashed	VBD	0	root
+the	DT	4	det
+motorbike	NN	2	dobj
+
+QuestionId: blogs-02-9
+Who	WP	2	nsubj
+stayed	VBD	0	root
+with	IN	6	case
+the	DT	6	det
+young	JJ	6	amod
+man	NN	2	nmod
+

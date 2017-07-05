@@ -1,0 +1,178 @@
+QuestionId: blogs-06-1
+What	WDT	2	nsubj
+broke	VBD	0	root
+because	IN	9	mark
+the	DT	5	det
+broiler	NN	9	nsubj
+of	IN	8	case
+the	DT	8	det
+oven	NN	5	nmod
+activated	VBN	2	advcl
+
+QuestionId: blogs-06-10
+Why	WRB	5	advmod
+did	VBD	5	aux
+an	DT	4	det
+oven	NN	5	nsubj
+break	VB	0	root
+
+QuestionId: blogs-06-11
+Where	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+fire	NN	5	nsubj
+ascend	VB	0	root
+
+QuestionId: blogs-06-12
+What	WDT	2	nsubj
+ascended	VBD	0	root
+to	TO	5	case
+the	DT	5	det
+ceiling	NN	2	nmod
+
+QuestionId: blogs-06-13
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+order	VB	0	root
+
+QuestionId: blogs-06-14
+What	WP	4	nmod
+was	VBD	4	auxpass
+I	PRP	4	nsubjpass
+excited	VBN	0	root
+about	IN	1	case
+
+QuestionId: blogs-06-15
+What	WP	5	dobj
+did	VBD	5	aux
+my	PRP$	4	nmod:poss
+husband	NN	5	nsubj
+find	VB	0	root
+in	IN	8	case
+the	DT	8	det
+flames	NNS	5	nmod
+
+QuestionId: blogs-06-16
+What	WDT	2	nsubj
+made	VBD	0	root
+some	DT	4	det
+fire	NN	2	dobj
+
+QuestionId: blogs-06-17
+Who	WP	2	nsubj
+tried	VBD	0	root
+to	TO	4	mark
+extinguish	VB	2	xcomp
+the	DT	6	det
+fire	NN	4	dobj
+
+QuestionId: blogs-06-18
+What	WDT	2	nsubj
+broke	VBD	0	root
+because	IN	9	mark
+the	DT	5	det
+broiler	NN	9	nsubj
+of	IN	8	case
+the	DT	8	det
+oven	NN	5	nmod
+tripped	VBN	2	advcl
+
+QuestionId: blogs-06-19
+What	WP	4	dobj
+did	VBD	4	aux
+I	PRP	4	nsubj
+order	VB	0	root
+a	DT	7	det
+few	JJ	7	amod
+days	NNS	4	advmod
+ago	IN	7	case
+
+QuestionId: blogs-06-2
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+oven	NN	5	nsubj
+scorch	VB	0	root
+
+QuestionId: blogs-06-20
+What	WDT	2	nsubj
+got	VBD	0	root
+damaged	JJ	2	dep
+besides	IN	6	case
+the	DT	6	det
+range	NN	2	nmod
+
+QuestionId: blogs-06-21
+What	WP	9	dobj
+did	VBD	9	aux
+the	DT	4	det
+husband	NN	9	nsubj
+of	IN	7	case
+the	DT	7	det
+narrator	NN	4	nmod
+quickly	RB	9	advmod
+close	VB	0	root
+
+QuestionId: blogs-06-22
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+narrator	NN	5	nsubj
+recover	VB	0	root
+
+QuestionId: blogs-06-3
+Who	WP	3	nsubj
+unsuccessfully	RB	3	advmod
+tried	VBD	0	root
+to	TO	5	mark
+eliminate	VB	3	xcomp
+the	DT	7	det
+fire	NN	5	dobj
+
+QuestionId: blogs-06-4
+What	WP	9	dobj
+did	VBD	9	aux
+the	DT	4	det
+husband	NN	9	nsubj
+of	IN	7	case
+the	DT	7	det
+narrator	NN	4	nmod
+quickly	RB	9	advmod
+shut	VBN	0	root
+
+QuestionId: blogs-06-5
+Who	WP	2	nsubj
+had	VBD	0	root
+a	DT	4	det
+fire	NN	2	dobj
+in	IN	8	case
+our	PRP$	8	nmod:poss
+old	JJ	8	amod
+oven/range	NN	4	nmod
+
+QuestionId: blogs-06-6
+What	WDT	2	nsubj
+malfunctioned	VBD	0	root
+
+QuestionId: blogs-06-7
+What	WP	4	dobj
+did	VBD	4	aux
+I	PRP	4	nsubj
+run	VB	0	root
+and	CC	4	cc
+get	VB	4	conj
+
+QuestionId: blogs-06-8
+What	WP	0	root
+was	VBD	1	cop
+toast	NN	1	nsubj
+
+QuestionId: blogs-06-9
+What	WDT	5	dobj
+have	VBP	5	aux
+we	PRP	5	nsubj
+been	VBN	5	aux
+using	VBG	0	root
+

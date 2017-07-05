@@ -1,0 +1,171 @@
+QuestionId: fables-01-1
+Where	WRB	5	advmod
+was	VBD	5	aux
+the	DT	4	det
+crow	NN	5	nsubj
+sitting	VBG	0	root
+
+QuestionId: fables-01-10
+Who	WP	2	nsubj
+set	VBD	0	root
+his	PRP$	4	nmod:poss
+wits	NNS	2	dobj
+to	TO	6	mark
+work	VB	2	advcl
+
+QuestionId: fables-01-11
+Who	WP	2	nsubj
+tried	VBD	0	root
+to	TO	4	mark
+discover	VB	2	xcomp
+how	WRB	7	advmod
+to	TO	7	mark
+get	VB	4	ccomp
+the	DT	9	det
+cheese	NN	7	dobj
+
+QuestionId: fables-01-12
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+fox	NN	5	nsubj
+say	VBP	0	root
+about	IN	10	case
+the	DT	8	det
+bird	NN	10	nmod:poss
+'s	POS	8	case
+beauty	NN	5	nmod
+
+QuestionId: fables-01-13
+How	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+crow	NN	5	nsubj
+caw	VB	0	root
+
+QuestionId: fables-01-14
+Who	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+fox	NN	5	nsubj
+notice	VB	0	root
+
+QuestionId: fables-01-15
+Who	WP	2	nsubj
+observed	VBD	0	root
+the	DT	5	det
+corvine	NN	5	compound
+bird	NN	2	dobj
+
+QuestionId: fables-01-16
+Who	WP	2	nsubj
+needed	VBD	0	root
+intelligence	NN	2	dobj
+
+QuestionId: fables-01-17
+Who	WP	3	nsubjpass
+was	VBD	3	auxpass
+perched	VBN	0	root
+on	IN	6	case
+a	DT	6	det
+branch	NN	3	nmod
+
+QuestionId: fables-01-18
+Who	WP	2	nsubj
+felt	VBD	0	root
+buttered	VBN	2	dep
+up	RP	3	compound:prt
+
+QuestionId: fables-01-19
+What	WP	3	nsubj
+was	VBD	3	cop
+exquisite	JJ	0	root
+
+QuestionId: fables-01-2
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+crow	NN	5	nsubj
+have	VBP	0	root
+in	IN	8	case
+her	PRP$	8	nmod:poss
+beak	NN	5	nmod
+
+QuestionId: fables-01-20
+What	WP	2	nsubj
+is	VBZ	0	root
+without	IN	4	case
+equal	JJ	2	advcl
+
+QuestionId: fables-01-21
+What	WP	3	nsubj
+is	VBZ	3	cop
+noble	JJ	0	root
+
+QuestionId: fables-01-22
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+fox	NN	5	nsubj
+say	VBP	0	root
+about	IN	10	case
+the	DT	8	det
+bird	NN	10	nmod:poss
+'s	POS	8	case
+plumage	NN	5	nmod
+
+QuestionId: fables-01-23
+Who	WP	0	root
+was	VBD	1	cop
+grazing	NN	1	nsubj
+
+QuestionId: fables-01-3
+Who	WP	5	dobj
+is	VBZ	5	cop
+the	DT	4	det
+Story	NNP	5	nsubj
+about	IN	0	root
+
+QuestionId: fables-01-4
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+fox	NN	5	nsubj
+do	VBP	0	root
+to	TO	8	case
+the	DT	8	det
+cheese	NN	5	nmod
+
+QuestionId: fables-01-5
+Where	WRB	5	advmod
+was	VBD	5	aux
+the	DT	4	det
+fox	NN	5	nsubj
+standing	VBG	0	root
+
+QuestionId: fables-01-6
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+crow	NN	5	nsubj
+feel	VB	0	root
+
+QuestionId: fables-01-7
+Who	WP	2	nsubj
+flattered	VBD	0	root
+the	DT	4	det
+crow	NN	2	dobj
+
+QuestionId: fables-01-8
+What	WP	5	dobj
+was	VBD	5	aux
+the	DT	4	det
+crow	NN	5	nsubj
+doing	VBG	0	root
+
+QuestionId: fables-01-9
+Where	WRB	2	advmod
+was	VBD	0	root
+the	DT	4	det
+cheese	NN	2	nsubj
+

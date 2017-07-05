@@ -1,0 +1,66 @@
+QuestionId: blogs-06-1
+(ROOT (SBARQ (WHNP (WDT What)) (SQ (VP (VBD broke) (SBAR (IN because) (S (NP (NP (DT the) (NN broiler)) (PP (IN of) (NP (DT the) (NN oven)))) (VP (VBN activated)))))) (. ?)))
+
+QuestionId: blogs-06-10
+(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBD did) (NP (DT an) (NN oven)) (VP (VB break))) (. ?)))
+
+QuestionId: blogs-06-11
+(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBD did) (NP (DT the) (NN fire)) (VP (VB ascend))) (. ?)))
+
+QuestionId: blogs-06-12
+(ROOT (SBARQ (WHNP (WDT What)) (SQ (VP (VBD ascended) (PP (TO to) (NP (DT the) (NN ceiling))))) (. ?)))
+
+QuestionId: blogs-06-13
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB order))) (. ?)))
+
+QuestionId: blogs-06-14
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD was) (NP (PRP I)) (VP (VBN excited) (PP (IN about)))) (. ?)))
+
+QuestionId: blogs-06-15
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (PRP$ my) (NN husband)) (VP (VB find) (PP (IN in) (NP (DT the) (NNS flames))))) (. ?)))
+
+QuestionId: blogs-06-16
+(ROOT (SBARQ (WHNP (WDT What)) (SQ (VP (VBD made) (NP (DT some) (NN fire)))) (. ?)))
+
+QuestionId: blogs-06-17
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD tried) (S (VP (TO to) (VP (VB extinguish) (NP (DT the) (NN fire))))))) (. ?)))
+
+QuestionId: blogs-06-18
+(ROOT (SBARQ (WHNP (WDT What)) (SQ (VP (VBD broke) (SBAR (IN because) (S (NP (NP (DT the) (NN broiler)) (PP (IN of) (NP (DT the) (NN oven)))) (VP (VBN tripped)))))) (. ?)))
+
+QuestionId: blogs-06-19
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (PRP I)) (VP (VB order) (ADVP (NP (DT a) (JJ few) (NNS days)) (IN ago)))) (. ?)))
+
+QuestionId: blogs-06-2
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN oven)) (VP (VB scorch))) (. ?)))
+
+QuestionId: blogs-06-20
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VP (VBD got) (JJ damaged) (PP (IN besides) (NP (DT the) (NN range))))) (. ?)))
+
+QuestionId: blogs-06-21
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (NP (DT the) (NN husband)) (PP (IN of) (NP (DT the) (NN narrator)))) (ADVP (RB quickly)) (VP (VB close))) (. ?)))
+
+QuestionId: blogs-06-22
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB recover))) (. ?)))
+
+QuestionId: blogs-06-3
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (ADVP (RB unsuccessfully)) (VBD tried) (S (VP (TO to) (VP (VB eliminate) (NP (DT the) (NN fire))))))) (. ?)))
+
+QuestionId: blogs-06-4
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (NP (DT the) (NN husband)) (PP (IN of) (NP (DT the) (NN narrator)))) (VP (ADVP (RB quickly)) (VBN shut))) (. ?)))
+
+QuestionId: blogs-06-5
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD had) (NP (NP (DT a) (NN fire)) (PP (IN in) (NP (PRP$ our) (JJ old) (NN oven/range)))))) (. ?)))
+
+QuestionId: blogs-06-6
+(ROOT (SBARQ (WHNP (WDT What)) (SQ (VP (VBD malfunctioned))) (. ?)))
+
+QuestionId: blogs-06-7
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (PRP I)) (VP (VB run) (CC and) (VB get))) (. ?)))
+
+QuestionId: blogs-06-8
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD was) (NP (NN toast))) (. ?)))
+
+QuestionId: blogs-06-9
+(ROOT (SBARQ (WHNP (WDT What)) (SQ (VBP have) (NP (PRP we)) (VP (VBN been) (VP (VBG using)))) (. ?)))
+

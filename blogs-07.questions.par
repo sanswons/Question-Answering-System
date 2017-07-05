@@ -1,0 +1,30 @@
+QuestionId: blogs-07-1
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP (NP (VBG lurking)) (PP (IN in) (NP (DT the) (NN apartment))))) (. ?)))
+
+QuestionId: blogs-07-10
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VP (VBD did) (RB not) (VP (ADVP (RB even) (CC and) (RB yet)) (VB arrive) (PP (TO to) (NP (NP (DT the) (NN apartment)) (PP (IN of) (NP (DT the) (NN narrator)))))))) (. ?)))
+
+QuestionId: blogs-07-2
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (PRP I)) (VP (VB grab))) (. ?)))
+
+QuestionId: blogs-07-3
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (PRP I)) (VP (VP (VB smite) (NP (NN mine) (NNS enemies))) (CC and) (VP (VB smear) (NP (PRP$ their) (JJ greasy) (NN bug) (NNS guts)) (PP (IN with))))) (. ?)))
+
+QuestionId: blogs-07-4
+(ROOT (SBARQ (WHNP (WDT What)) (SQ (VP (VBD entered) (NP (NP (DT the) (NN apartment)) (PP (IN of) (NP (DT the) (NN narrator)))))) (. ?)))
+
+QuestionId: blogs-07-5
+(ROOT (SBARQ (WHADVP (WRB When)) (SQ (VBD did) (NP (DT a) (NN narrator)) (ADVP (ADVP (RB recently)) (CC and) (ADVP (RB momentarily))) (VP (VB open))) (. ?)))
+
+QuestionId: blogs-07-6
+(ROOT (SBARQ (WHNP (WDT What)) (SQ (VP (VBD began) (S (VP (TO to) (VP (VB be) (NP (NP (DT the) (NN enemy)) (PP (IN of) (NP (DT the) (NN narrator))))))))) (. ?)))
+
+QuestionId: blogs-07-7
+(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB grab) (NP (NP (DT a) (ADJP (JJ reachable) (CC and) (JJ close)) (NN thing)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (NP (DT a) (JJ rolled) (JJ comic) (NN book)))))))) (. ?)))
+
+QuestionId: blogs-07-8
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD stopped) (S (VP (VBG hitting) (NP (NP (DT the) (NN group)) (PP (IN of) (NP (NNS bugs)))))))) (. ?)))
+
+QuestionId: blogs-07-9
+(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBD did) (NP (DT the) (NN narrator)) (VP (VB begin) (S (VP (TO to) (VP (VB look) (PRT (RP around))))))) (. ?)))
+

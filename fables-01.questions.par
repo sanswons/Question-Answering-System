@@ -1,0 +1,69 @@
+QuestionId: fables-01-1
+(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBD was) (NP (DT the) (NN crow)) (VP (VBG sitting))) (. ?)))
+
+QuestionId: fables-01-10
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD set) (NP (PRP$ his) (NNS wits)) (S (VP (TO to) (VP (VB work)))))) (. ?)))
+
+QuestionId: fables-01-11
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD tried) (S (VP (TO to) (VP (VB discover) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB get) (NP (DT the) (NN cheese))))))))))) (. ?)))
+
+QuestionId: fables-01-12
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN fox)) (VP (VBP say) (PP (IN about) (NP (NP (DT the) (NN bird) (POS 's)) (NN beauty))))) (. ?)))
+
+QuestionId: fables-01-13
+(ROOT (SBARQ (WHADVP (WRB How)) (SQ (VBD did) (NP (DT the) (NN crow)) (VP (VB caw))) (. ?)))
+
+QuestionId: fables-01-14
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBD did) (NP (DT the) (NN fox)) (VP (VB notice))) (. ?)))
+
+QuestionId: fables-01-15
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD observed) (NP (DT the) (NN corvine) (NN bird)))) (. ?)))
+
+QuestionId: fables-01-16
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD needed) (NP (NN intelligence)))) (. ?)))
+
+QuestionId: fables-01-17
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBD was) (VP (VBN perched) (PP (IN on) (NP (DT a) (NN branch))))) (. ?)))
+
+QuestionId: fables-01-18
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD felt) (VP (VBN buttered) (PRT (RP up))))) (. ?)))
+
+QuestionId: fables-01-19
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD was) (ADJP (JJ exquisite))) (. ?)))
+
+QuestionId: fables-01-2
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN crow)) (VP (VBP have) (PP (IN in) (NP (PRP$ her) (NN beak))))) (. ?)))
+
+QuestionId: fables-01-20
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ is) (PP (IN without) (ADJP (JJ equal)))) (. ?)))
+
+QuestionId: fables-01-21
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ is) (ADJP (JJ noble))) (. ?)))
+
+QuestionId: fables-01-22
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN fox)) (VP (VBP say) (PP (IN about) (NP (NP (DT the) (NN bird) (POS 's)) (NN plumage))))) (. ?)))
+
+QuestionId: fables-01-23
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBD was) (NP (NN grazing))) (. ?)))
+
+QuestionId: fables-01-3
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBZ is) (NP (DT the) (NNP Story)) (ADJP (IN about))) (. ?)))
+
+QuestionId: fables-01-4
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN fox)) (VP (VBP do) (PP (TO to) (NP (DT the) (NN cheese))))) (. ?)))
+
+QuestionId: fables-01-5
+(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBD was) (NP (DT the) (NN fox)) (VP (VBG standing))) (. ?)))
+
+QuestionId: fables-01-6
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN crow)) (VP (VB feel))) (. ?)))
+
+QuestionId: fables-01-7
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD flattered) (NP (DT the) (NN crow)))) (. ?)))
+
+QuestionId: fables-01-8
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD was) (NP (DT the) (NN crow)) (VP (VBG doing))) (. ?)))
+
+QuestionId: fables-01-9
+(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBD was) (NP (DT the) (NN cheese))) (. ?)))
+

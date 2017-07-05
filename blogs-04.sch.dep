@@ -1,0 +1,131 @@
+The	DT	2	det
+narrator	NN	3	nsubj
+placed	VBD	0	root
+the	DT	5	det
+bowl	NN	3	dobj
+on	IN	8	case
+the	DT	8	det
+deck	NN	3	nmod
+in	IN	10	case
+order	NN	8	nmod
+for	IN	12	case
+Benjamin	NNP	10	nmod
+to	TO	14	mark
+drink	VB	3	advcl
+the	DT	16	det
+bowl	NN	18	nmod:poss
+'s	POS	16	case
+water	NN	14	dobj
+
+The	DT	2	det
+bowl	NN	4	nsubj
+was	VBD	4	cop
+popular	JJ	0	root
+
+The	DT	2	det
+birds	NNS	3	nsubj
+drank	VBD	0	root
+the	DT	5	det
+bowl	NN	7	nmod:poss
+'s	POS	5	case
+water	NN	3	dobj
+
+The	DT	2	det
+birds	NNS	3	nsubj
+bathed	VBN	0	root
+themselves	PRP	3	dobj
+in	IN	7	case
+the	DT	7	det
+bowl	NN	3	nmod
+
+The	DT	2	det
+birds	NNS	3	nsubj
+organized	VBN	0	root
+themselves	PRP	3	dobj
+on	IN	9	case
+the	DT	7	det
+deck	NN	9	nmod:poss
+'s	POS	7	case
+railing	NN	3	nmod
+in	IN	11	case
+order	NN	9	nmod
+for	IN	14	case
+the	DT	14	det
+birds	NNS	11	nmod
+to	TO	16	mark
+wait	VB	9	acl
+
+The	DT	2	det
+squirrels	NNS	3	nsubj
+drank	VBD	0	root
+the	DT	5	det
+bowl	NN	7	nmod:poss
+'s	POS	5	case
+water	NN	3	dobj
+
+The	DT	2	det
+squirrel	NN	3	nsubj
+approached	VBD	0	root
+the	DT	5	det
+bowl	NN	3	dobj
+
+The	DT	2	det
+squirrel	NN	4	nsubjpass
+was	VBD	4	auxpass
+startled	VBN	0	root
+
+The	DT	2	det
+squirrel	NN	3	nsubj
+leaped	VBD	0	root
+because	IN	8	mark
+the	DT	6	det
+squirrel	NN	8	nsubjpass
+was	VBD	8	auxpass
+startled	VBN	3	advcl
+
+The	DT	2	det
+squirrel	NN	3	nsubj
+fell	VBD	0	root
+over	IN	8	case
+the	DT	6	det
+deck	NN	8	nmod:poss
+'s	POS	6	case
+railing	NN	3	nmod
+because	IN	12	mark
+the	DT	11	det
+squirrel	NN	12	nsubj
+leaped	VBD	3	advcl
+because	IN	17	mark
+the	DT	15	det
+squirrel	NN	17	nsubjpass
+was	VBD	17	auxpass
+startled	VBN	12	advcl
+
+The	DT	2	det
+squirrel	NN	3	nsubj
+held	VBD	0	root
+the	DT	5	det
+deck	NN	7	nmod:poss
+'s	POS	5	case
+railing	NN	3	dobj
+with	IN	12	case
+the	DT	10	det
+squirrel	NN	12	nmod:poss
+'s	POS	10	case
+paw	NN	3	nmod
+
+The	DT	2	det
+squirrel	NN	4	nmod:poss
+'s	POS	2	case
+paw	NN	5	nsubj
+slipped	VBD	0	root
+off	RP	5	compound:prt
+the	DT	8	det
+deck	NN	10	nmod:poss
+'s	POS	8	case
+railing	NN	5	dobj
+
+The	DT	2	det
+squirrel	NN	3	nsubj
+fell	VBD	0	root
+

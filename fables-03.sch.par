@@ -1,0 +1,7 @@
+(ROOT (S (NP (DT An) (NN eagle)) (VP (VP (VBD swooped) (PP (IN toward) (NP (DT a) (NN serpent)))) (CC and) (VP (VBD seized) (NP (PRP it)) (PP (IN in) (NP (NP (NN order)) (PP (IN for) (NP (PRP he))))) (S (VP (TO to) (VP (VB devour) (NP (PRP it))))))) (. .)))
+(ROOT (S (S (NP (DT The) (NN eagle)) (VP (VBN fought) (PP (IN with) (NP (DT the) (NN serpent))))) (, ,) (CC and) (S (NP (DT the) (NN serpent)) (VP (VBN coiled) (PP (IN around) (NP (PRP him))))) (. .)))
+(ROOT (S (NP (NP (DT A) (NN countryman)) (SBAR (WHNP (WP who)) (S (VP (VBD owned) (NP (DT a) (NN drinking) (NN vessel)))))) (VP (VBD tried) (S (VP (TO to) (VP (VB help) (NP (DT the) (NN eagle) (S (VP (TO to) (VP (VB escape))))))))) (. .)))
+(ROOT (S (S (NP (DT The) (NN eagle)) (VP (VBD escaped))) (, ,) (CC and) (S (NP (DT the) (NN countryman)) (VP (VBN freed) (NP (DT the) (NN eagle)) (PP (IN from) (NP (DT the) (NN serpent))))) (. .)))
+(ROOT (S (NP (DT The) (NN serpent)) (VP (VBD spat) (NP (DT some) (NN poison)) (PP (IN in) (NP (DT the) (NN drinking) (NN vessel)))) (. .)))
+(ROOT (S (NP (DT The) (NN countryman)) (VP (VBD decided) (S (VP (TO to) (VP (VB sip) (PP (IN from) (NP (DT the) (NN drinking) (NN vessel))))))) (. .)))
+(ROOT (S (NP (DT The) (NN eagle)) (VP (VBD spilled) (NP (DT the) (NN drinking) (NN vessel))) (. .)))
